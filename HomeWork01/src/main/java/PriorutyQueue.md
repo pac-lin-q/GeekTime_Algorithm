@@ -1,0 +1,10 @@
+优先队列PriorutyQueue
+
+
+一般使用堆数据结构实现，堆一般使用数组存储;
+集合中的每个元素都有一个权重值，每次出队都弹出优先级最大或最小的元素。
+
+不允许空值
+不支持non-compareble不可比较的对象
+
+PriorityQueue是非线程安全的，所以Java提供了PriorityBlockingQueue（实现BlockingQueue接口）用于Java多线程环境
