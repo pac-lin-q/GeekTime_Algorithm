@@ -1,4 +1,4 @@
-优先队列PriorutyQueue
+Queue队列和优先队列PriorutyQueue
 
 
 一般使用堆数据结构实现，堆一般使用数组存储;
