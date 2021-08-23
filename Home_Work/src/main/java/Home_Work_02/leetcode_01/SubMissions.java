@@ -1,4 +1,4 @@
-package Home_Work.leetcode_01;
+package Home_Work_02.leetcode_01;
 
 import java.util.HashMap;
 import java.util.Map;

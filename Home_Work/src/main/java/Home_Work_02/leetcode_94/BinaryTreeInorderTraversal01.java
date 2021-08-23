@@ -1,4 +1,4 @@
-package Home_Work.leetcode_94;
+package Home_Work_02.leetcode_94;
 
 import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
